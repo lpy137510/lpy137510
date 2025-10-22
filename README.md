@@ -1,3 +1,4 @@
+real git path: http://pandaliu.cc:30000/
 - 👋 Hi, I’m @lpy137510
 - 👀 I’m interested in 嵌入式
 - 🌱 I’m currently learning DL
